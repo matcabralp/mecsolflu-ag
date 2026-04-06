@@ -9,8 +9,8 @@ D_MAX = 0.040
 TAM_POPULACAO = 50
 TAM_SELECAO = 8
 NUM_GERACOES = 100
-TAXA_MUTACAO = 0.005
-TOLERANCIA = None       # coloca None para desativar, ou ex: 1e-8 para ativar
+TAXA_MUTACAO = 0.02
+TOLERANCIA = 1e-8       # coloca None para desativar, ou ex: 1e-8 para ativar
 JANELA_TOLERANCIA = 10  # número de gerações observadas para avaliar convergência
 
 
